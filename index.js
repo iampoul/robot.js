@@ -1,4 +1,3 @@
-// const SlackBot  = require('slackbots')
 // const axios     = require('axios')
 const dotenv    = require('dotenv')
 const { App }   = require('@slack/bolt')
