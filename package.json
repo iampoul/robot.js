@@ -24,7 +24,6 @@
   "homepage": "https://github.com/iampoul/robot.js#readme",
   "dependencies": {
     "@slack/bolt": "^3.5.0",
-    "axios": "^0.21.1",
     "dotenv": "^10.0.0"
   }
 }
