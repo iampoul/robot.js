@@ -1,0 +1,31 @@
+{
+  "name": "robot",
+  "version": "2.0.0",
+  "description": "Slack chat bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iampoul/robot.js.git"
+  },
+  "keywords": [
+    "slack",
+    "bot",
+    "robot",
+    "openai"
+  ],
+  "author": "Poul Poulsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iampoul/robot.js/issues"
+  },
+  "homepage": "https://github.com/iampoul/robot.js#readme",
+  "dependencies": {
+    "@slack/bolt": "^3.5.0",
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "slackbots": "^1.2.0"
+  }
+}
